@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Computer Science student on a mission to become a developer who actually<br>ships things not just someone who can pass coding interviews.<br>I fell down the rabbit hole of web development and decided<br>to stay a while.<br>If you're working on something and need an extra pair of hands<br>— or even just want to exchange ideas — I'm always open.<br>Let's build something.
+<center>Computer Science student on a mission to become a developer who actually<br>ships things not just someone who can pass coding interviews.<br>I fell down the rabbit hole of web development and decided<br>to stay a while.<br>If you're working on something and need an extra pair of hands<br>— or even just want to exchange ideas — I'm always open.<br>Let's build something.</center>
 
 
 ## 🌐 Socials:
