@@ -1,6 +1,6 @@
 <div align="center">
  
-## 👋 Hi there, I'm Lobhas!
+## Lobhas!
  
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BF5FFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Developer+in+the+Making+%F0%9F%92%BB;Always+building+something+new+%F0%9F%9A%80;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
@@ -17,7 +17,6 @@ const lobhas = {
   status: "CS Student → Developer",
   mission: "Ship things, not just pass interviews",
   currentlyLearning: ["React", "TypeScript", "System Design"],
-  openTo: "Collaborations & Internships",
   funFact: "Fell down the web dev rabbit hole 🕳️",
   contact: "lobhasgawande42@gmail.com"
 };
@@ -31,7 +30,6 @@ const lobhas = {
  
 <div align="center">
  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lobhass.04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lobhas-gawande)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@gawandelobhas_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lobhasgawande42@gmail.com)
