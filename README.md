@@ -83,8 +83,7 @@ const lobhas = {
 ---
  
 <div align="center">
- 
-![](https://komarev.com/ghpvc/?username=lobh42&color=BF5FFF&style=for-the-badge&label=PROFILE+VIEWS)
+
  
 **`Got something cooking?? I'm one extra pair of hand away.`**
  
