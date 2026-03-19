@@ -59,7 +59,6 @@ const lobhas = {
 </div>
  
 ---
- 
 ### 📊 GitHub Stats
  
 <div align="center">
@@ -68,13 +67,23 @@ const lobhas = {
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobh42&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=BF5FFF&text_color=ffffff" width="40%"/>
  
+<img src="https://github-readme-stats.vercel.app/api?username=lobh42&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=BF5FFF&text_color=ffffff&icon_color=BF5FFF" width="55%"/>
+ 
 </div>
  
 ---
  
-
-
+### 🟩 Contribution Graph
  
-**`Got something cooking?? I'm one extra pair of hand away.`**
+<div align="center">
  
+[![GitHub Contribution Graph](https://ghchart.rshah.org/216e39/lobh42)](https://github.com/lobh42)
+ 
+</div>
+ 
+<div align="center">
+
+---
+
+*⁠ Got something cooking?? I'm one extra pair of hand away. ⁠*
 </div>
