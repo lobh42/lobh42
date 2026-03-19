@@ -72,17 +72,7 @@ const lobhas = {
  
 ---
  
-### 🟩 Contribution Graph
- 
-<div align="center">
- 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/39FF14/lobh42)](https://github.com/lobh42)
- 
-</div>
- 
----
- 
-<div align="center">
+
 
  
 **`Got something cooking?? I'm one extra pair of hand away.`**
